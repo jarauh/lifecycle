@@ -1,6 +1,8 @@
 
 # lifecycle 0.1.0.9000
 
+* Added the "retired" lifecycle stage to the documentation.
+
 
 # lifecycle 0.1.0
 
